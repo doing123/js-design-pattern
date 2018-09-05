@@ -30,5 +30,27 @@
 * 工厂模式
     * 将new操作单独封装
     
+* 单例模式
+    * 系统中唯一使用
+    * 一个类只有一个实例
+
+    * 登录框
+    * 购物车
+
+* 适配器模式
+    * 封装旧接口
+    * vue computed
+
+* 装饰器模式
+    * 为对象扩展新功能
+    * 不改变其原有的结构和功能
+
+    * ES7装饰器 （babel-plugin-transform-decorators-legacy）
+    * core-decorators
+
+* 代理模式
+    * 网页事件代理
+    * $.proxy
+    * ES6 Proxy
 
 
