@@ -52,6 +52,28 @@
     * 网页事件代理
     * $.proxy
     * ES6 Proxy
-    
+
+* 外观模式
+
+* 观察者模式
+    * 发布 & 订阅
+    * 一对 N
+    * 场景
+        * 网页事件绑定
+        * Promise
+        * jQuery Callbacks
+        * nodejs 自定义事件、处理http请求、多进程通讯
+        * vue和React组件生命周期触发
+        * vue watch
+
+* 迭代器
+    * 顺序访问一个有序集合
+    * 场景
+        * jQuery each
+        * ES6 Iterator [Symbol.iterator]属性（函数，执行返回迭代器）
+
+* 状态模式
+    * 有限状态机 收藏、取消（javascript-state-machine）
+    * promise实现
 
 
