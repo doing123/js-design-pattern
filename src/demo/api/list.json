@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "《test》",
+        "price": 111,
+        "discount": 1
+    },
+    {
+        "id": 2,
+        "name": "《test2》",
+        "price": 222,
+        "discount": 0
+    }
+]

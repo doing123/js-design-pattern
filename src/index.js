@@ -1,7 +1,7 @@
 /* 观察者模式 */
 
 // 主题：保存状态，状态变化之后触发所有观察者对象
-class Subject {
+/* class Subject {
     constructor() {
         this.state = 0;
         this.observers = []
@@ -37,4 +37,9 @@ class Observer {
 
 let s = new Subject()
 let o1 = new Observer('o1', s)
-s.setState(1)
+s.setState(1) */
+
+import App from './demo/App.js'
+
+let app = new App('app')
+app.init()
